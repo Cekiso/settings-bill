@@ -5,7 +5,7 @@
 
     "scripts": {
         "start": "nodemon --exec babel-node src/index.js",
-        "test": "moocha"
+        "test": "mocha"
     },
     "keywords": [],
     "author": "",
