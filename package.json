@@ -2,9 +2,7 @@
     "name": "express-intro",
     "version": "1.0.0",
     "main": "index.js",
-    "engines": {
-        "node": "14.12.1"
-    },
+
     "scripts": {
         "start": "nodemon --exec babel-node src/index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
