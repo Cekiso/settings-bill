@@ -1,2 +1,2 @@
 # settings-with-bill-expressjs 
-[![Build Status](https://travis-ci.com/Cekiso/bootcamp-terminal-tests.svg?branch=master)](https://travis-ci.com/Cekiso/bootcamp-terminal-tests)
+[![Build Status](https://travis-ci.com/Cekiso/settings-with-bill-expressjs.svg?branch=main)](https://travis-ci.com/Cekiso/settings-with-bill-expressjs)
